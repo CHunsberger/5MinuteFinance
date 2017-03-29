@@ -20,6 +20,8 @@ In other words, shorting stock is used to lessen the risk taken by banks and oth
 
 ## So How Does It Work?
 
+He said this here, notes notes ...
+
 To short a share of stock, you borrow the stock from someone (say, Bob) and sell it to someone else (say, Sandra).  Say that you sold it to Sandra for \$100.  The cash balance in your account will increase by \$100, and you will hold a -1 position in the stock.  
 
 -  Eventually, you'll have to return the stock to Bob to close our your short position.
